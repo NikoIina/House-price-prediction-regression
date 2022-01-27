@@ -9,7 +9,7 @@ The aim of this project is to use dataset containing house measurements to predi
 
 All of these are loss functions, so I will try to minimize them, when choosing best model.
 
-For completion of this project I'm going to use data analysis toolds such as Numpy, Pandas, Matplotlib and Seaborn. For model building I will use scikit-learn package.
+For completion of this project I'm going to use data analysis and visualization tools such as Numpy, Pandas, Matplotlib and Seaborn. For model building I will use scikit-learn package.
 
 # Прогнозирование цены продажи дома с помощью машинного обучения
 
@@ -22,4 +22,4 @@ For completion of this project I'm going to use data analysis toolds such as Num
 
 Все это функции потерь, поэтому я постараюсь минимизировать их при выборе лучшей модели.
 
-Для выполнения этого проекта я использую инструменты анализа данных, такие как Numpy, Pandas, Matplotlib и Seaborn. Для построения модели я буду использовать пакет scikit-learn. 
+Для выполнения этого проекта я использую инструменты анализа и визуализации данных, такие как Numpy, Pandas, Matplotlib и Seaborn. Для построения модели я буду использовать пакет scikit-learn. 
